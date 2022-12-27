@@ -8,12 +8,12 @@
 #-----------------------------------------------------------------------------
 #
 # Index:
-#   56-156      Variable and Dictionary initializations
-#   157-681     Function initializations
-#   686-830     First section of draw
-#   838-1408    Analyzing the game board and choosing from all possible moves
-#   1411-1502   Later section of draw
-#   1514-1694   Mouse up function, including player moving their pawns and pressing buttons
+#   41-137      Variable and Dictionary initializations
+#   141-665     Function initializations
+#   670-809     First section of draw
+#   812-1402    Analyzing the game board and choosing from all possible moves
+#   1407-1484   Later section of draw
+#   1489-1685   Mouse up function, including player moving their pawns and pressing buttons
 #
 #-----------------------------------------------------------------------------
 #
