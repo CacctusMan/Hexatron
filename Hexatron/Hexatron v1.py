@@ -3,17 +3,9 @@
 # Purpose:     A game of Hexapawn using a basic machine-learning AI [Version 1]
 #
 # Author:      Ibrahim Haq
-# Created:     26-Oct-2020
-# Updated:     29-Oct-2020
+# Created:     26-10-2020
+# Updated:     26-12-2022
 #-----------------------------------------------------------------------------
-# I think this project deserves a XXXXXX because ...
-#
-# Features Added:
-#   ...
-#   ...
-#   ...
-#-----------------------------------------------------------------------------
-
 
 
 
